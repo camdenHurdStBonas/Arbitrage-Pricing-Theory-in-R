@@ -160,7 +160,7 @@ APT <- function(ticker, start_date, end_date, FRED_API_Key){
 #Cleared the work space
 rm(list=ls())
 #sets the variable "path" to the name of Working Directory
-path <- "/Users/camdenhurd/desktop/Desktop/St Bonaventure Classes/SIMM/Rstudio for SIMM"
+path <- ""
 #Set the Working Directory using the variable "path"
 setwd(path)
 
